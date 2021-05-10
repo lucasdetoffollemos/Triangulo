@@ -1,0 +1,7 @@
+C:\Users\Lucas\Documents\AcademiaDoProgramador\POO\Triangulo\TrianguloApp\bin\Debug\TrianguloApp.exe.config
+C:\Users\Lucas\Documents\AcademiaDoProgramador\POO\Triangulo\TrianguloApp\bin\Debug\TrianguloApp.exe
+C:\Users\Lucas\Documents\AcademiaDoProgramador\POO\Triangulo\TrianguloApp\bin\Debug\TrianguloApp.pdb
+C:\Users\Lucas\Documents\AcademiaDoProgramador\POO\Triangulo\TrianguloApp\obj\Debug\TrianguloApp.csprojAssemblyReference.cache
+C:\Users\Lucas\Documents\AcademiaDoProgramador\POO\Triangulo\TrianguloApp\obj\Debug\TrianguloApp.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\AcademiaDoProgramador\POO\Triangulo\TrianguloApp\obj\Debug\TrianguloApp.exe
+C:\Users\Lucas\Documents\AcademiaDoProgramador\POO\Triangulo\TrianguloApp\obj\Debug\TrianguloApp.pdb
